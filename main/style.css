@@ -5,6 +5,11 @@
   font-size: 55px;
   margin-top: 5px;
   }
+  .imgtop{
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+}
 #nav{
   width: 100%;
   height: 15%;
@@ -13,8 +18,4 @@
   top: 0;
   background: orange;
 }
-.imgtop{
-  width: 50px;
-  height: 50px;
-  margin-top: 10px;
-}
+
